@@ -3,7 +3,6 @@ import { Card, CardHeader, CardContent, Typography } from '@material-ui/core';
 import { Doughnut } from 'react-chartjs-2';
 import useStyles from './styles';
 import {Chart, ArcElement} from 'chart.js';
-import { Grid } from '@material-ui/core';
 import useTransactions from '../../useTransactions';
 
 Chart.register(ArcElement);
