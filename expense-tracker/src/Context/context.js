@@ -2,32 +2,32 @@ import React, { useReducer, createContext } from 'react'
 
 import contextReducer from './contextReducer';
 
-const intialState = [
-    {
-        id:1,
-        type:'Income',
-        category:'salary',
-        amount:50000,
-        date:'Saturday, Feb 25',
+const intialState = [];
+    // {
+    //     id:1,
+    //     type:'Income',
+    //     category:'Salary',
+    //     amount:50000,
+    //     date:'Saturday, Feb 25',
 
-    },
-    {
-        id:2,
-        type:'Expense',
-        category:'Pets',
-        amount:500,
-        date:'Saturday, Feb 21',
+    // },
+    // {
+    //     id:2,
+    //     type:'Expense',
+    //     category:'Pets',
+    //     amount:500,
+    //     date:'Saturday, Feb 21',
 
-    },
-    {
-        id:3,
-        type:'Income',
-        category:'Stocks',
-        amount:5000,
-        date:'Saturday, Feb 20',
+    // },
+    // {
+    //     id:3,
+    //     type:'Income',
+    //     category:'Stocks',
+    //     amount:5000,
+    //     date:'Saturday, Feb 20',
 
-    }
-];
+    // }
+
 
 
 export const ExpenseTrackerContext = createContext(intialState);
