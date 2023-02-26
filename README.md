@@ -2,4 +2,4 @@
 An expense Tracker
 
 
-[Link to the app](expensetrackeraman003malhotra.netlify.app)
+[Link to the app](https://expensetrackeraman003malhotra.netlify.app/)
