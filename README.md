@@ -2,6 +2,8 @@
 An expense Tracker
 [Link to the app](https://expensetrackeraman003malhotra.netlify.app/)
 
+![image](https://github.com/aman003malhotra/ExpenseTracker/assets/49841734/c5b519af-5417-490d-8da1-780bba40ddac)
+
 In the project directory, you can run:
 ### `git clone`
 
